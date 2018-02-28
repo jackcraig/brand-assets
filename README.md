@@ -2,7 +2,7 @@
 
 Public repository for V&amp;A brand assets
 
-For more information or if you need additional assets please contact Chris Pearson: c.pearson@vam.ac.uk
+For more information or if you need additional assets please contact Digital Media: webchanges@vam.ac.uk
 
 ### Colour palette
 * #BB3935 - Morris Red denotes **Interactive content**
